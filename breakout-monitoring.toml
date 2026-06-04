@@ -30,7 +30,6 @@ exchange = "ccxt"
 "DOGE_USDT" = "DOGE_USDT"
 "ADA_USDT" = "ADA_USDT"
 "BCH_USDT" = "BCH_USDT"
-"LINK_USDT" = "LINK_USDT"
 
 [groups.stock.usa]
 market_type = "stock"
