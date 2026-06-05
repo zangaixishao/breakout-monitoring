@@ -29,7 +29,7 @@ exchange = "ccxt"
 "SOL_USDT" = "SOL_USDT"
 "DOGE_USDT" = "DOGE_USDT"
 "TRX_USDT" = "TRX_USDT"
-"HYPE_USDT" = "HYPE_USDT"
+"HYPER_USDT" = "HYPER_USDT"
 
 [groups.stock.usa]
 market_type = "stock"
