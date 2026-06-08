@@ -74,8 +74,6 @@ exchange = "akshare"
 "688008" = "澜起科技 Montage Technology"
 "002156" = "通富微电 Tongfu Microelectronics"
 "000063" = "中兴通讯 ZTE Corporation"
-"399001" = "深证成指"
-"399006" = "创业板指"
 "000688" = "科创50"
 
 [groups.futures.usa_commodities]
