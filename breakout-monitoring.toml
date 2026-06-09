@@ -24,12 +24,8 @@ exchange = "ccxt"
 [groups.crypto.large_cap.tickers]
 "BTC_USDT" = "BTC_USDT"
 "ETH_USDT" = "ETH_USDT"
-"XRP_USDT" = "XRP_USDT"
-"BNB_USDT" = "BNB_USDT"
-"SOL_USDT" = "SOL_USDT"
-"DOGE_USDT" = "DOGE_USDT"
-"TRX_USDT" = "TRX_USDT"
 "HYPER_USDT" = "HYPER_USDT"
+"ZEC_USDT" = "ZEC_USDT"
 
 [groups.stock.usa]
 market_type = "stock"
